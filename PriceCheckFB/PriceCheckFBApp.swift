@@ -4,6 +4,8 @@
 // Qapla'
 
 import SwiftUI
+import FirebaseFirestore
+import FirebaseCore
 // import Firebase modules here
 
 
